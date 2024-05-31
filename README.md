@@ -1,6 +1,6 @@
 # Nina AI
 
-Nina é uma Inteligência Artificial avançada que permite conversas em tempo real por texto e voz, semelhante ao ChatGPT e Gemini. Ela pode ser utilizada via linha de comando, interface web utilizando Streamlit e uma interface gráfica nativa no sistema operacional.
+Nina é uma Inteligência Artificial avançada que permite conversas em tempo real por texto e voz. Ela pode ser utilizada via linha de comando, interface web utilizando Streamlit e uma interface gráfica nativa no sistema operacional.
 
 ## Funcionalidades
 
@@ -74,11 +74,15 @@ python gui_nina.py
 ### Contribuição
 Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 
-Faça um fork do projeto.
-Crie uma branch para sua feature (`git checkout -b feature/sua-feature`).
-Commit suas mudanças (`git commit -m 'Adicionei uma nova feature'`).
-Faça o push para a branch (`git push origin feature/sua-feature`).
-Abra um Pull Request.
+1. Faça um fork do projeto.
+
+2. Crie uma branch para sua feature (`git checkout -b feature/sua-feature`).
+
+3. Commit suas mudanças (`git commit -m 'Adicionei uma nova feature'`).
+
+4. Faça o push para a branch (`git push origin feature/sua-feature`).
+
+5. Abra um Pull Request.
 
 ### Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
